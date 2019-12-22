@@ -9,6 +9,13 @@ void main() {
           title: Text('I am rich'),
           backgroundColor: Colors.blueGrey[900],
         ),
+        backgroundColor: Colors.blueGrey,
+        body: Center(
+          child: Image(
+            image: NetworkImage(
+                'https://upload.wikimedia.org/wikipedia/commons/4/45/Teresa_Carre%C3%B1o_at_the_piano.jpg'),
+          ),
+        ),
       ),
     ),
   );
