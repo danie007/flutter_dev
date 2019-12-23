@@ -8,7 +8,7 @@ void main() => runApp(
             backgroundColor: Colors.deepPurple,
           ),
           body: Center(
-            child: Image(image: AssetImage('images/donald._funny.gif')),
+            child: Image(image: AssetImage('images/donald_funny.gif')),
           ),
         ),
       ),
