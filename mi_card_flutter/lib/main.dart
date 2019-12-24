@@ -17,9 +17,10 @@ void main() {
               Text(
                 'Daniel Selvan',
                 style: TextStyle(
-                    color: Colors.white,
-                    fontSize: 40.0,
-                    fontFamily: 'Pacifico'),
+                  color: Colors.white,
+                  fontSize: 40.0,
+                  fontFamily: 'Pacifico',
+                ),
               ),
               Text(
                 'FLUTTER DEVELOPER',
